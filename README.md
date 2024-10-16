@@ -38,4 +38,4 @@ Ideal for developers and engineers working on projects that require fine-tuned s
 
 ## Getting Started:
 
-Clone the repository, install the required dependencies, and run the `zdt_step_motor.py` script to launch the control interface.
+Clone the repository, install the required dependencies, and run the `python zdt_step_motor.py` script to launch the control interface.
