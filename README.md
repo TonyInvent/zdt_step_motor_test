@@ -2,6 +2,8 @@
 
 This Python project provides a graphical user interface (GUI) for controlling a step motor via CAN bus communication. It's designed for precise motor control in various applications, such as robotics, automation, or any system requiring accurate positioning and velocity control.
 
+![alt text](<./img/gui.png>)
+
 ## Features:
 
 - Real-time motor control through a user-friendly GUI
